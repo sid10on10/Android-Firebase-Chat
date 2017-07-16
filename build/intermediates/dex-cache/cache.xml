@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_f657e737e570ce9a54145aff164a51756cbf6eb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\75777c2875f6e3b30448fabbb86c5e990503b57c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_198dcb2713b510ac8f897a7d032fece1a5c9463c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_933bc758c6587ce6d05f58c444f41c3cf62ae0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5189bce02c561e840ef09b29d2b52ad7b13c0949\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\classes_908308bd035f1f502106197d27e0855f954aadc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5e3a0b9a61b027ac353e93b4fe0ff6c3e75af5f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_df1a8d3cb5942f6fdfe1ac0870a6645fabc71032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8ccabceb62a946146ee420bea87c5d1b7358f2e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_1908c8f20065ad97b6f76ed15501d9496db40568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_5861875293229376e229c3b7ebe6264692a5cea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7b68ab83c13f00eb6cead8096bd8f35d9a521c6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_48922420900464d882d42cb2dda6933ad9b16120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_22abbae15ffe2f74a6d57b543386d64435b49b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\861e80d36f5f9b1e0f4e6dd772086670723d62f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_1633d9ff1230ec9bf486f12cb495674b9e60c112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\bab16ef1fa0427522a02b6a8c7a42e79f82272e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_befee49fcf829d87e0b01fd32874bbc15aee4983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_ef9693e7bb02cdcc880580347637b1126fc21077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\597763b596c61dcb837b7857303cb9c9d3094bfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_58b9f65b802edba6aeb6192a99da7afaf29130eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\1811569dfdfe316521cdc00b5ca25bcd198995f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_9dafca82370c554b09b375601b95cfa9529f0454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7435e1b0392279abac313f1470c7ff3a33b696c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\debug\classes_4d791650d141f215c13de53c78b2f3599e9010f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9279059eef185d9d0b0aa976caca26fe4dfe1e7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\classes_8f211f97c55472eda6c3a4b149875f71b8537ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ccca3baf472c20ba50f9de8b59dcda7e0682a55d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\classes_886c2ef6651e29c05644282b30ff2cfd02fdcf49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_0e80439ce6338683df03d4cd1c7df2580025e03f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_204fb4449b7efeeab0a9ede313609d9693f09b38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\99d77a2dbf54338b54d261247cff1f3e839ecd04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\classes_ae6600d5223b88db777d431b024bda6c344f83dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\cf786929202df31b3f0a9bdd13fd94e3a446ea46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Firebase\friendlychat\android\app\build\intermediates\pre-dexed\androidTest\debug\classes_5f27351079a9590d8151b25942315b1770a9279e.jar" />
+    </item>
+
+</items>
